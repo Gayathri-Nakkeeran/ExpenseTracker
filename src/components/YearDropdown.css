@@ -1,0 +1,22 @@
+.searchSpace{   
+    width:auto;
+    margin: 5px 15em;
+    
+    
+}
+.yearBox{
+    float:right;
+    padding: 0.8% 3% !important;    
+    background-color: #40005D;
+    color:white;
+    border-color: white;
+    border-radius: 5px;
+    
+}
+.filterText{
+    float: left;
+    padding: 5px !important;
+    margin: auto;
+    color: rgb(177, 148, 171);
+
+}

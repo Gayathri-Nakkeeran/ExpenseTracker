@@ -1,0 +1,10 @@
+.moneyBox{
+    float:right;
+    background-color: rgb(20, 28, 22) !important;
+    padding:20px 20px 10px 20px ;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 6px !important;  
+   
+
+}

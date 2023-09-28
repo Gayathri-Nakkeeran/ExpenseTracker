@@ -1,0 +1,17 @@
+.month{
+    font-weight: bold;
+    text-align: center;
+}
+.date{
+    text-align: center;
+}
+.year{
+    text-align: center;
+}
+.dateBox{
+    padding:5px 3px;
+    width: 6rem;
+    background-color: rgb(38, 43, 40) !important;
+    border-radius: 5px;
+    
+}
